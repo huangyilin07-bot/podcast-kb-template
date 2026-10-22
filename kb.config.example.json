@@ -1,0 +1,8 @@
+{
+  "parent_page": "https://app.notion.com/p/<父页面ID>",
+  "database": "https://app.notion.com/p/<数据库ID>",
+  "data_source": "collection://<data-source-ID>",
+  "rules_page": "https://app.notion.com/p/<规范页ID>",
+  "save_transcript": true,
+  "extra_rules": []
+}
