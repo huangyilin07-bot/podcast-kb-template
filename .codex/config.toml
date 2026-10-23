@@ -1,0 +1,4 @@
+# Codex 项目配置：连接 Notion 官方 MCP 服务。
+# 首次使用前在终端运行：codex mcp login notion
+[mcp_servers.notion]
+url = "https://mcp.notion.com/mcp"
